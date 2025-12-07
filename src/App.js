@@ -53,6 +53,11 @@ function App() {
         <dt>Это определение в React.</dt>
         <dd>Это определение в React.</dd>
       </dl>
+
+      <dl>
+        <dt>Это определение в React.</dt>
+        <dd>Это определение в React.</dd>
+      </dl>
     </div>
   );
 }
